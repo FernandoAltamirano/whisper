@@ -13,6 +13,8 @@
 
 In the project directory, you can run:
 
-### `npm run start`
+### `npm run start` 
+Initialize the app in development mode
 
 ### `npm run build`
+Create a optimized production version
